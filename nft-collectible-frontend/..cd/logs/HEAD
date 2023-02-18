@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 461db1721a1a2523b363d0cf44f39d84ce2943a3 Joseph Woodall <56406362+RedLeadr@users.noreply.github.com> 1676739956 -0600	commit (initial): Initialize project using Create React App
+461db1721a1a2523b363d0cf44f39d84ce2943a3 7775332b63252c079932e7627178f5adbde6a248 Joseph Woodall <56406362+RedLeadr@users.noreply.github.com> 1676745381 -0600	commit: adds initial app
+7775332b63252c079932e7627178f5adbde6a248 9feff510ded8283c548dd0faa894c6d16a519c48 Joseph Woodall <56406362+RedLeadr@users.noreply.github.com> 1676747016 -0600	commit: need to fix ethers import
